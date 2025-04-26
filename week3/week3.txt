@@ -1,0 +1,7 @@
+Week 3 : Lab Program
+WEEK 3: Gaming Agent & Negamax search
+EasyAI is an artificial intelligence framework for two-players abstract games. Read through the documentation.
+http://zulko.github.io/easyAI/index.html
+Write a python program to define and implement a tic-tac-toe game with one human player. Solve the game using the built in algorithms and compare the solutions.
+a. Iterative Deepening
+b. Depth first search
