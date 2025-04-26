@@ -28,8 +28,8 @@ We use **Gymnasium** (the updated version of OpenAI Gym), classic control enviro
 1. **Clone the Repository**
 
    ```bash
-   git clone <your-repo-link>
-   cd <repo-folder>
+   git clone https://github.com/adwaiy2912/AI-Lab.git
+   cd AI-Lab
    ```
 
 2. **Create and Activate a Virtual Environment (Recommended)**
