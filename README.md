@@ -1,4 +1,4 @@
-# Project Overview
+# AI Lab
 
 This repository contains weekly assignments, projects, and practice work related to Reinforcement Learning (RL) and related AI topics.  
 We use **Gymnasium** (the updated version of OpenAI Gym), classic control environments, and other simulation environments for experiments.
