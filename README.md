@@ -32,11 +32,11 @@ We use **Gymnasium** (the updated version of OpenAI Gym), classic control enviro
    cd AI-Lab
    ```
 
-2. **Create and Activate a Virtual Environment (Recommended)**
+2. **Create and Activate a Virtual Environment**
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scriptsctivate
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
 3. **Install Required Packages**
@@ -45,7 +45,7 @@ We use **Gymnasium** (the updated version of OpenAI Gym), classic control enviro
    pip install -r requirements.txt
    ```
 
-   If `requirements.txt` is missing, install manually:
+   **OR**
 
    ```bash
    pip install jupyter numpy pandas matplotlib seaborn scikit-learn gymnasium
